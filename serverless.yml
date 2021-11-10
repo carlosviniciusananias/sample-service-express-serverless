@@ -1,4 +1,4 @@
-service: virtuspay #Name of your App
+service: simple-service-express-serverless #Name of your App
 
 provider:
  name: aws
